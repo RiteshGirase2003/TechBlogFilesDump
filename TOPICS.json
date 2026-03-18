@@ -1,0 +1,80 @@
+{
+  "SE": {
+    "SE_00001": {
+      "id": 1,
+      "topic_id": "SE_00001",
+      "file_name": "SE_00001.md",
+      "title": "TCP/UDP Sockets",
+      "description": "Introduction to network sockets, differences between TCP and UDP, and their use cases.",
+      "subject_tag": "SE"
+    },
+    "SE_00002": {
+      "id": 2,
+      "topic_id": "SE_00002",
+      "file_name": "SE_00002.md",
+      "title": "APIs",
+      "description": "Overview of Application Programming Interfaces, types of APIs, and how they enable software communication.",
+      "subject_tag": "SE"
+    },
+    "SE_00003": {
+      "id": 3,
+      "topic_id": "SE_00003",
+      "file_name": "SE_00003.md",
+      "title": "REST vs GraphQL",
+      "description": "Comparison between REST and GraphQL architectures, their strengths, limitations, and typical use cases.",
+      "subject_tag": "SE"
+    },
+    "SE_00004": {
+      "id": 4,
+      "topic_id": "SE_00004",
+      "file_name": "SE_00004.md",
+      "title": "Request Routing",
+      "description": "Explains how web servers route requests to the appropriate handler or endpoint.",
+      "subject_tag": "SE"
+    }
+  },
+  "AI": {
+    "AI_00001": {
+      "id": 5,
+      "topic_id": "AI_00001",
+      "file_name": "AI_00001.md",
+      "title": "Linear Algebra for AI",
+      "description": "Fundamentals of linear algebra and their application in artificial intelligence.",
+      "subject_tag": "AI"
+    },
+    "AI_00002": {
+      "id": 6,
+      "topic_id": "AI_00002",
+      "file_name": "AI_00002.md",
+      "title": "Matrix Operations",
+      "description": "Explanation of matrix operations like addition, multiplication, inversion in AI.",
+      "subject_tag": "AI"
+    }
+  },
+  "CN": {
+    "CN_00001": {
+      "id": 7,
+      "topic_id": "CN_00001",
+      "file_name": "CN_00001.md",
+      "title": "Introduction to Networking",
+      "description": "Basics of computer networks, types of networks, and the role of networking.",
+      "subject_tag": "CN"
+    },
+    "CN_00002": {
+      "id": 8,
+      "topic_id": "CN_00002",
+      "file_name": "CN_00002.md",
+      "title": "Definition and Purpose of Networks",
+      "description": "Explanation of what networks are and why they are essential.",
+      "subject_tag": "CN"
+    },
+    "CN_00003": {
+      "id": 9,
+      "topic_id": "CN_00003",
+      "file_name": "CN_00003.md",
+      "title": "Network Characteristics and Goals",
+      "description": "Overview of main characteristics of networks like scalability, reliability.",
+      "subject_tag": "CN"
+    }
+  }
+}
