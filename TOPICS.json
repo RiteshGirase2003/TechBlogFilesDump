@@ -7,7 +7,7 @@
       "title": "TCP/UDP Sockets",
       "description": "Introduction to network sockets, differences between TCP and UDP, and their use cases.",
       "subject_tag": "SE",
-      "is_live": false
+      "is_live": true
     },
     "SE_00002": {
       "id": 2,
@@ -16,7 +16,7 @@
       "title": "APIs",
       "description": "Overview of Application Programming Interfaces, types of APIs, and how they enable software communication.",
       "subject_tag": "SE",
-      "is_live": false
+      "is_live": true
     },
     "SE_00003": {
       "id": 3,
