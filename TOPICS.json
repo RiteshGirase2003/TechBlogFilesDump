@@ -22,10 +22,10 @@
       "id": 3,
       "topic_id": "SE_00003",
       "file_name": "SE_00003.md",
-      "title": "REST vs GraphQL",
-      "description": "Comparison between REST and GraphQL architectures, their strengths, limitations, and typical use cases.",
+      "title": "Parallel Downloading",
+      "description": "Parallel downloading is a technique where a client downloads file chunks simultaneously from multiple servers to improve speed, scalability, and fault tolerance.",
       "subject_tag": "SE",
-      "is_live": false
+      "is_live": true
     },
     "SE_00004": {
       "id": 4,
