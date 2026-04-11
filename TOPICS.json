@@ -31,10 +31,10 @@
       "id": 4,
       "topic_id": "SE_00004",
       "file_name": "SE_00004.md",
-      "title": "Request Routing",
-      "description": "Explains how web servers route requests to the appropriate handler or endpoint.",
+      "title": "Programming paradigms",
+      "description": "Programming paradigms are different styles or approaches to writing and organizing code.",
       "subject_tag": "SE",
-      "is_live": false
+      "is_live": true
     }
   },
   "AI": {
